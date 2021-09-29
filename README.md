@@ -1,8 +1,9 @@
 slim-one
 ==============================================================================
 
-[Short description of the addon.]
+Shhhhh! 🤫 don't tell anyone about this repo
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mansona/field-guide-netlify-slim-one)
 
 Compatibility
 ------------------------------------------------------------------------------
