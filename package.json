@@ -24,12 +24,12 @@
     "ember-cli-htmlbars": "^5.7.1"
   },
   "devDependencies": {
-    "bottled-ember": "file:../../git/opensource/empress/bottled-ember",
+    "bottled-ember": "^0.0.1",
     "ember-cli": "~3.27.0",
     "ember-load-initializers": "^2.1.2",
     "ember-resolver": "^8.0.2",
     "ember-source": "~3.28.0",
-    "field-guide": "file:../../git/opensource/empress/field-guide/field-guide",
+    "field-guide": "^2.1.0",
     "field-guide-default-template": "^2.0.0",
     "loader.js": "^4.7.0"
   },
